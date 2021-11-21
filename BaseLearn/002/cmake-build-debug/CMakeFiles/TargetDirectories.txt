@@ -1,0 +1,3 @@
+C:/App/Code_Workspace/C/CBase/BaseLearn/002/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/App/Code_Workspace/C/CBase/BaseLearn/002/cmake-build-debug/CMakeFiles/002.dir
+C:/App/Code_Workspace/C/CBase/BaseLearn/002/cmake-build-debug/CMakeFiles/edit_cache.dir

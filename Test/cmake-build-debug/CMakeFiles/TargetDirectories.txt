@@ -1,0 +1,3 @@
+C:/LiYinQI/IT/Workspace/C/CBase/Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/LiYinQI/IT/Workspace/C/CBase/Test/cmake-build-debug/CMakeFiles/Test.dir
+C:/LiYinQI/IT/Workspace/C/CBase/Test/cmake-build-debug/CMakeFiles/edit_cache.dir
