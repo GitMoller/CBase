@@ -156,6 +156,22 @@ class001.c/fast:
 .PHONY : class001.c/fast
 
 #=============================================================================
+<<<<<<< HEAD
+# Target rules for targets named class002.c
+
+# Build rule for target.
+class002.c: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 class002.c
+.PHONY : class002.c
+
+# fast build rule for target.
+class002.c/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\class002.c.dir\build.make CMakeFiles/class002.c.dir/build
+.PHONY : class002.c/fast
+
+#=============================================================================
+=======
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
 # Target rules for targets named ptr.c
 
 # Build rule for target.
@@ -195,6 +211,36 @@ class001.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\class001.c.dir\build.make CMakeFiles/class001.c.dir/class001.c.s
 .PHONY : class001.c.s
 
+<<<<<<< HEAD
+class002.obj: class002.c.obj
+
+.PHONY : class002.obj
+
+# target to build an object file
+class002.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\class002.c.dir\build.make CMakeFiles/class002.c.dir/class002.c.obj
+.PHONY : class002.c.obj
+
+class002.i: class002.c.i
+
+.PHONY : class002.i
+
+# target to preprocess a source file
+class002.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\class002.c.dir\build.make CMakeFiles/class002.c.dir/class002.c.i
+.PHONY : class002.c.i
+
+class002.s: class002.c.s
+
+.PHONY : class002.s
+
+# target to generate assembly for a file
+class002.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\class002.c.dir\build.make CMakeFiles/class002.c.dir/class002.c.s
+.PHONY : class002.c.s
+
+=======
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -259,10 +305,20 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Lesson
 	@echo ... class001.c
+<<<<<<< HEAD
+	@echo ... class002.c
+=======
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
 	@echo ... ptr.c
 	@echo ... class001.obj
 	@echo ... class001.i
 	@echo ... class001.s
+<<<<<<< HEAD
+	@echo ... class002.obj
+	@echo ... class002.i
+	@echo ... class002.s
+=======
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

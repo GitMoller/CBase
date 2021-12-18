@@ -1,5 +1,11 @@
 D:/CBase/Lesson/cmake-build-debug/CMakeFiles/Lesson.dir
 D:/CBase/Lesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 D:/CBase/Lesson/cmake-build-debug/CMakeFiles/class001.c.dir
+<<<<<<< HEAD
+D:/CBase/Lesson/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CBase/Lesson/cmake-build-debug/CMakeFiles/class002.c.dir
+D:/CBase/Lesson/cmake-build-debug/CMakeFiles/ptr.c.dir
+=======
 D:/CBase/Lesson/cmake-build-debug/CMakeFiles/ptr.c.dir
 D:/CBase/Lesson/cmake-build-debug/CMakeFiles/edit_cache.dir
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274

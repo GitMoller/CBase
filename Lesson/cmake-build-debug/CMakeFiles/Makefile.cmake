@@ -50,5 +50,9 @@ set(CMAKE_MAKEFILE_PRODUCTS
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Lesson.dir/DependInfo.cmake"
   "CMakeFiles/class001.c.dir/DependInfo.cmake"
+<<<<<<< HEAD
+  "CMakeFiles/class002.c.dir/DependInfo.cmake"
+=======
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
   "CMakeFiles/ptr.c.dir/DependInfo.cmake"
   )

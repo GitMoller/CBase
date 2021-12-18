@@ -99,7 +99,66 @@
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+<<<<<<< HEAD
+			<Target title="edit_cache">
+				<Option working_dir="D:/CBase/Lesson/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="class002.c">
+				<Option output="D:/CBase/Lesson/cmake-build-debug/class002.c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CBase/Lesson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 class002.c"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="class002.c/fast">
+				<Option output="D:/CBase/Lesson/cmake-build-debug/class002.c.exe" prefix_auto="0" extension_auto="0"/>
+=======
 			<Target title="ptr.c">
+				<Option output="D:/CBase/Lesson/cmake-build-debug/ptr.c.exe" prefix_auto="0" extension_auto="0"/>
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
+				<Option working_dir="D:/CBase/Lesson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+<<<<<<< HEAD
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 class002.c/fast"/>
+=======
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 ptr.c"/>
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+<<<<<<< HEAD
+			<Target title="ptr.c">
+=======
+			<Target title="ptr.c/fast">
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
 				<Option output="D:/CBase/Lesson/cmake-build-debug/ptr.c.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/CBase/Lesson/cmake-build-debug"/>
 				<Option object_output="./"/>
@@ -111,12 +170,17 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
+<<<<<<< HEAD
 					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 ptr.c"/>
+=======
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 ptr.c/fast"/>
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
 					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+<<<<<<< HEAD
 			<Target title="ptr.c/fast">
 				<Option output="D:/CBase/Lesson/cmake-build-debug/ptr.c.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/CBase/Lesson/cmake-build-debug"/>
@@ -130,16 +194,13 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 ptr.c/fast"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
+=======
 			<Target title="edit_cache">
 				<Option working_dir="D:/CBase/Lesson/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
 					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/CBase/Lesson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -149,6 +210,12 @@
 		<Unit filename="D:/CBase/Lesson/class001.c">
 			<Option target="class001.c"/>
 		</Unit>
+<<<<<<< HEAD
+		<Unit filename="D:/CBase/Lesson/class002.c">
+			<Option target="class002.c"/>
+		</Unit>
+=======
+>>>>>>> d6070692ebfd9e531452ee76bc6620c13de6e274
 		<Unit filename="D:/CBase/Lesson/main.c">
 			<Option target="Lesson"/>
 		</Unit>
